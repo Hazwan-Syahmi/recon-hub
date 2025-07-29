@@ -1,0 +1,109 @@
+00:34:47.360148 ZoomEye: check callback failed for the configuration
+00:34:47.360222 360PassiveDNS: check callback failed for the configuration
+00:34:47.360243 ASNLookup: check callback failed for the configuration
+00:34:47.360400 Hunter: check callback failed for the configuration
+00:34:47.360445 IPdata: check callback failed for the configuration
+00:34:47.360474 IPinfo: check callback failed for the configuration
+00:34:47.360453 Ahrefs: check callback failed for the configuration
+00:34:47.360702 Netlas: check callback failed for the configuration
+00:34:47.360749 ONYPHE: check callback failed for the configuration
+00:34:47.360757 IntelX: check callback failed for the configuration
+00:34:47.360792 PassiveTotal: check callback failed for the configuration
+00:34:47.360796 Shodan: check callback failed for the configuration
+00:34:47.360821 Pastebin: check callback failed for the configuration
+00:34:47.360825 Spamhaus: check callback failed for the configuration
+00:34:47.360850 PentestTools: check callback failed for the configuration
+00:34:47.360870 PublicWWW: check callback failed for the configuration
+00:34:47.360877 ThreatBook: check callback failed for the configuration
+00:34:47.360896 Quake: check callback failed for the configuration
+00:34:47.360855 BeVigil: check callback failed for the configuration
+00:34:47.360884 BigDataCloud: check callback failed for the configuration
+00:34:47.360903 BinaryEdge: check callback failed for the configuration
+00:34:47.360962 BufferOver: check callback failed for the configuration
+00:34:47.360979 BuiltWith: check callback failed for the configuration
+00:34:47.360920 VirusTotal: check callback failed for the configuration
+00:34:47.361227 C99: check callback failed for the configuration
+00:34:47.361265 CIRCL: check callback failed for the configuration
+00:34:47.361334 SOCRadar: check callback failed for the configuration
+00:34:47.361287 Censys: check callback failed for the configuration
+00:34:47.361311 CertCentral: check callback failed for the configuration
+00:34:47.361397 SecurityTrails: check callback failed for the configuration
+00:34:47.361386 ZETAlytics: check callback failed for the configuration
+00:34:47.361351 Chaos: check callback failed for the configuration
+00:34:47.361386 FOFA: check callback failed for the configuration
+00:34:47.361410 FacebookCT: check callback failed for the configuration
+00:34:47.361487 DNSDB: check callback failed for the configuration
+00:34:47.361449 GitHub: check callback failed for the configuration
+00:34:47.361519 DNSRepo: check callback failed for the configuration
+00:34:47.361466 GitLab: check callback failed for the configuration
+00:34:47.361541 DNSlytics: check callback failed for the configuration
+00:34:47.361556 Deepinfo: check callback failed for the configuration
+00:34:47.361317 WhoisXMLAPI: check callback failed for the configuration
+00:34:47.361569 Detectify: check callback failed for the configuration
+00:34:47.361427 FullHunt: check callback failed for the configuration
+00:34:47.361340 Yandex: check callback failed for the configuration
+00:34:47.363115 Querying Bing for facebook.com subdomains
+00:34:47.363319 Querying Crtsh for facebook.com subdomains
+00:34:47.363336 Querying AnubisDB for facebook.com subdomains
+00:34:47.363339 Querying HyperStat for facebook.com subdomains
+00:34:47.363341 Querying PKey for facebook.com subdomains
+00:34:47.363344 Querying UKWebArchive for facebook.com subdomains
+00:34:47.363347 Querying Wayback for facebook.com subdomains
+00:34:47.363349 Querying Active DNS for facebook.com subdomains
+00:34:47.363351 Querying SiteDossier for facebook.com subdomains
+00:34:47.363354 Querying AbuseIPDB for facebook.com subdomains
+00:34:47.363392 Querying Mnemonic for facebook.com subdomains
+00:34:47.363396 Querying Google for facebook.com subdomains
+00:34:47.363399 Querying HackerTarget for facebook.com subdomains
+00:34:47.363401 Querying CommonCrawl for facebook.com subdomains
+00:34:47.363403 Querying DNS SRV for facebook.com subdomains
+00:34:47.363406 Querying Synapsint for facebook.com subdomains
+00:34:47.363409 Querying Sublist3rAPI for facebook.com subdomains
+00:34:47.363440 Querying Riddler for facebook.com subdomains
+00:34:47.363443 Querying GrepApp for facebook.com subdomains
+00:34:47.363445 Querying Pulsedive for facebook.com subdomains
+00:34:47.363447 Querying DNSSpy for facebook.com subdomains
+00:34:47.363449 Querying DNSDumpster for facebook.com subdomains
+00:34:47.363451 Querying LeakIX for facebook.com subdomains
+00:34:47.363453 Querying Searx for facebook.com subdomains
+00:34:47.363455 Querying CertSpotter for facebook.com subdomains
+00:34:47.363457 Querying DNSHistory for facebook.com subdomains
+00:34:47.363459 Querying Digitorus for facebook.com subdomains
+00:34:47.363461 Querying DuckDuckGo for facebook.com subdomains
+00:34:47.363463 Querying Maltiverse for facebook.com subdomains
+00:34:47.363465 Querying HackerOne for facebook.com subdomains
+00:34:47.363468 Querying ThreatMiner for facebook.com subdomains
+00:34:47.363471 Querying Baidu for facebook.com subdomains
+00:34:47.363490 Querying Gists for facebook.com subdomains
+00:34:47.363492 Querying Searchcode for facebook.com subdomains
+00:34:47.363495 Querying URLScan for facebook.com subdomains
+00:34:47.363497 Querying Greynoise for facebook.com subdomains
+00:34:47.363499 Querying AlienVault for facebook.com subdomains
+00:34:47.363501 Querying Arquivo for facebook.com subdomains
+00:34:47.363503 Querying Ask for facebook.com subdomains
+00:34:47.363513 Querying HAW for facebook.com subdomains
+00:34:47.363515 Querying Yahoo for facebook.com subdomains
+00:34:47.363516 Querying Active Crawl for facebook.com subdomains
+00:34:47.363526 Querying Brute Forcing for facebook.com subdomains
+00:34:47.363527 Querying RapidDNS for facebook.com subdomains
+00:34:47.363530 Querying SubdomainCenter for facebook.com subdomains
+00:34:48.574531 AbuseIPDB: get_ip request to service returned with status code: 403 Forbidden
+00:34:49.306488 Riddler: scrape: Get "https://riddler.io/search/exportcsv?q=pld:facebook.com": dial tcp: lookup riddler.io on 192.168.22.1:53: no such host
+00:34:49.716664 DNSDumpster: failed to discover the token in the response body
+00:34:49.816880 DNSHistory: vertical request to service returned with status code: 403 Forbidden
+00:34:50.036475 Greynoise: vertical request to service returned with status: 404 Not Found
+00:34:50.169793 Sublist3rAPI: failed to decode the JSON response
+00:34:50.396208 Pulsedive: vertical request to service returned with status: 429 Too Many Requests
+00:34:50.538864 LeakIX: vertical request to service returned with status: 401 Unauthorized
+00:34:54.102598 Arquivo: vertical request to service returned with status code: 400 Bad Request
+00:34:54.159355 Crtsh: vertical request to service returned with status code: 404 Not Found
+00:34:55.500873 DNS wildcard detected: Resolver 8.8.8.8:53: *.scgraph.facebook.com
+00:34:55.788452 DNS wildcard detected: Resolver 8.8.8.8:53: *.trunkstable.facebook.com
+00:34:56.093252 DNS wildcard detected: Resolver 8.8.8.8:53: *.alpha.facebook.com
+00:34:56.225222 ThreatMiner: vertical request to service returned with status: 500 Internal Server Error
+00:34:59.395242 SubdomainCenter: scrape: Get "http://api.subdomain.center/?domain=facebook.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:35:00.097324 DNS wildcard detected: Resolver 8.8.8.8:53: *.beta.facebook.com
+00:35:02.371104 Wayback: scrape: Get "https://web.archive.org/cdx/search/cdx?matchType=domain&fl=original&output=json&collapse=urlkey&url=facebook.com": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:35:02.398819 RapidDNS: scrape: Get "https://rapiddns.io/subdomain/facebook.com?full=1": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+00:35:10.051741 DNS wildcard detected: Resolver 8.8.8.8:53: *.prod.facebook.com
+00:35:10.270876 DNS wildcard detected: Resolver 8.8.8.8:53: *.latest.facebook.com
